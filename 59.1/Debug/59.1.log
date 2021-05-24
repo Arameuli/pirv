@@ -1,0 +1,57 @@
+﻿  59.1.cpp
+C:\Users\nikas\source\repos\59.1\Rectangle.h(12,16): error C2143: syntax error: missing ';' before '&'
+C:\Users\nikas\source\repos\59.1\Rectangle.h(12,16): error C2433: 'istream': 'friend' not permitted on data declarations
+C:\Users\nikas\source\repos\59.1\Rectangle.h(12,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\nikas\source\repos\59.1\Rectangle.h(12,57): error C2238: unexpected token(s) preceding ';'
+C:\Users\nikas\source\repos\59.1\Rectangle.h(13,16): error C2143: syntax error: missing ';' before '&'
+C:\Users\nikas\source\repos\59.1\Rectangle.h(13,16): error C2433: 'ostream': 'friend' not permitted on data declarations
+C:\Users\nikas\source\repos\59.1\Rectangle.h(13,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\nikas\source\repos\59.1\Rectangle.h(13,58): error C2238: unexpected token(s) preceding ';'
+C:\Users\nikas\source\repos\59.1\59.1.cpp(7,8): error C2872: 'istream': ambiguous symbol
+C:\Users\nikas\source\repos\59.1\Rectangle.h(12,9): message : could be 'int istream'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\iosfwd(216,7): message : or       'std::istream'
+C:\Users\nikas\source\repos\59.1\59.1.cpp(7,8): error C2143: syntax error: missing ';' before '&'
+C:\Users\nikas\source\repos\59.1\59.1.cpp(7,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\nikas\source\repos\59.1\59.1.cpp(7,1): error C2086: 'int istream': redefinition
+C:\Users\nikas\source\repos\59.1\Rectangle.h(12): message : see declaration of 'istream'
+C:\Users\nikas\source\repos\59.1\59.1.cpp(7,29): error C2872: 'istream': ambiguous symbol
+C:\Users\nikas\source\repos\59.1\Rectangle.h(12,9): message : could be 'int istream'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\iosfwd(216,7): message : or       'std::istream'
+C:\Users\nikas\source\repos\59.1\59.1.cpp(7,31): error C2065: 'in': undeclared identifier
+C:\Users\nikas\source\repos\59.1\59.1.cpp(7,46): error C2065: 'f': undeclared identifier
+C:\Users\nikas\source\repos\59.1\59.1.cpp(7,35): error C2275: 'Rectangle': illegal use of this type as an expression
+C:\Users\nikas\source\repos\59.1\Rectangle.h(2): message : see declaration of 'Rectangle'
+C:\Users\nikas\source\repos\59.1\59.1.cpp(7,47): error C2473: 'operator >>': looks like a function definition, but there is no parameter list.
+C:\Users\nikas\source\repos\59.1\59.1.cpp(7,47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\nikas\source\repos\59.1\59.1.cpp(7,49): error C2448: '>>': function-style initializer appears to be a function definition
+C:\Users\nikas\source\repos\59.1\59.1.cpp(11,8): error C2872: 'ostream': ambiguous symbol
+C:\Users\nikas\source\repos\59.1\Rectangle.h(13,9): message : could be 'int ostream'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\iosfwd(217,7): message : or       'std::ostream'
+C:\Users\nikas\source\repos\59.1\59.1.cpp(11,8): error C2143: syntax error: missing ';' before '&'
+C:\Users\nikas\source\repos\59.1\59.1.cpp(11,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\nikas\source\repos\59.1\59.1.cpp(11,1): error C2086: 'int ostream': redefinition
+C:\Users\nikas\source\repos\59.1\Rectangle.h(13): message : see declaration of 'ostream'
+C:\Users\nikas\source\repos\59.1\59.1.cpp(11,29): error C2872: 'ostream': ambiguous symbol
+C:\Users\nikas\source\repos\59.1\Rectangle.h(13,9): message : could be 'int ostream'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\iosfwd(217,7): message : or       'std::ostream'
+C:\Users\nikas\source\repos\59.1\59.1.cpp(11,31): error C2065: 'out': undeclared identifier
+C:\Users\nikas\source\repos\59.1\59.1.cpp(11,47): error C2065: 'f': undeclared identifier
+C:\Users\nikas\source\repos\59.1\59.1.cpp(11,36): error C2275: 'Rectangle': illegal use of this type as an expression
+C:\Users\nikas\source\repos\59.1\Rectangle.h(2): message : see declaration of 'Rectangle'
+C:\Users\nikas\source\repos\59.1\59.1.cpp(11,48): error C2473: 'operator <<': looks like a function definition, but there is no parameter list.
+C:\Users\nikas\source\repos\59.1\59.1.cpp(11,48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\nikas\source\repos\59.1\59.1.cpp(11,50): error C2448: '<<': function-style initializer appears to be a function definition
+C:\Users\nikas\source\repos\59.1\59.1.cpp(20,20): error C2872: '>>': ambiguous symbol
+C:\Users\nikas\source\repos\59.1\59.1.cpp(7,10): message : could be 'int &>>'
+C:\Users\nikas\source\repos\59.1\59.1.cpp(20,20): message : or       '>>'
+C:\Users\nikas\source\repos\59.1\59.1.cpp(20,20): fatal error C1903: unable to recover from previous error(s); stopping compilation
+  Rectangle.cpp
+C:\Users\nikas\source\repos\59.1\Rectangle.h(12,16): error C2143: syntax error: missing ';' before '&'
+C:\Users\nikas\source\repos\59.1\Rectangle.h(12,16): error C2433: 'istream': 'friend' not permitted on data declarations
+C:\Users\nikas\source\repos\59.1\Rectangle.h(12,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\nikas\source\repos\59.1\Rectangle.h(12,57): error C2238: unexpected token(s) preceding ';'
+C:\Users\nikas\source\repos\59.1\Rectangle.h(13,16): error C2143: syntax error: missing ';' before '&'
+C:\Users\nikas\source\repos\59.1\Rectangle.h(13,16): error C2433: 'ostream': 'friend' not permitted on data declarations
+C:\Users\nikas\source\repos\59.1\Rectangle.h(13,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\nikas\source\repos\59.1\Rectangle.h(13,58): error C2238: unexpected token(s) preceding ';'
+  Generating Code...
